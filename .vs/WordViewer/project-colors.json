@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "20e1fcb7-c6b3-4905-84b9-4b1ae6686018": {
+      "ProjectGuid": "20e1fcb7-c6b3-4905-84b9-4b1ae6686018",
+      "DisplayName": "WordViewer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

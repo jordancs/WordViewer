@@ -1,0 +1,60 @@
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WindowsApplication1\WordViewer Thread VB\obj\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Teste do WordViewer\WordViewer Thread VB\obj\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\WordViewer\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WordViewer\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\WordViewer\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\WordViewer\obj\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Vite 2011 proj\WordViewer\obj\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\bin\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\bin\Debug\WordViewer.pdb
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\bin\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.Resources.resources
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.WordViewer.resources
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.dll
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.xml
+C:\Documents and Settings\Virtual\Desktop\Vite2011 proj\WordViewer\obj\Debug\WordViewer.pdb

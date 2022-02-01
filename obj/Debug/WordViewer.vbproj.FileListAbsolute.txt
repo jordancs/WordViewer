@@ -1,0 +1,11 @@
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\bin\Debug\WordViewer.dll
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\bin\Debug\WordViewer.pdb
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\bin\Debug\WordViewer.xml
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.Resources.resources
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.WordViewer.resources
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.vbproj.GenerateResource.Cache
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.dll
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.xml
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.pdb
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.vbproj.AssemblyReference.cache
+D:\Jordan\Programas\Vite2011 Proj\WordViewer\obj\Debug\WordViewer.vbproj.CoreCompileInputs.cache
